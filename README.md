@@ -1,4 +1,4 @@
-#ImageUtilties 
+#ImageUtilities 
 
 mkdir build
 
